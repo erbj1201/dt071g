@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\bin\Debug\net7.0\moment_3.exe
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\bin\Debug\net7.0\moment_3.deps.json
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\bin\Debug\net7.0\moment_3.runtimeconfig.json
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\bin\Debug\net7.0\moment_3.dll
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\bin\Debug\net7.0\moment_3.pdb
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\moment_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\moment_3.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\moment_3.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\moment_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\moment_3.dll
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\refint\moment_3.dll
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\moment_3.pdb
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\moment_3.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Skrivbord\Webbutveckling\dt071g_programmering_i_c#.net\moment_3\obj\Debug\net7.0\ref\moment_3.dll
